@@ -1,0 +1,230 @@
+{
+  "query": "Analyze Protect AI competitors and create a market report",
+  "company": "Protect AI",
+  "competitors": [
+    {
+      "name": "Mindgard",
+      "website": "https://mindgard.ai/blog/best-ai-security-companies",
+      "pricing": "",
+      "key_features": [
+        "autonomous red teaming",
+        "continuous security testing for artificial intelligence systems"
+      ],
+      "target_market": "AI safety companies, helping companies identify unsafe model behavior",
+      "strengths": [
+        "depth of AI-specific capability",
+        "ease of integration",
+        "real-world proven results"
+      ],
+      "weaknesses": [],
+      "positioning": "pioneering AI security company"
+    },
+    {
+      "name": "Vectra AI",
+      "website": "",
+      "pricing": "",
+      "key_features": [
+        "visibility into attackers' movements"
+      ],
+      "target_market": "",
+      "strengths": [
+        "great for visibility into attackers' movements"
+      ],
+      "weaknesses": [],
+      "positioning": ""
+    },
+    {
+      "name": "Radiant",
+      "website": "",
+      "pricing": "",
+      "key_features": [
+        "AI-powered SOC automation"
+      ],
+      "target_market": "",
+      "strengths": [
+        "great for AI-powered SOC automation"
+      ],
+      "weaknesses": [],
+      "positioning": ""
+    },
+    {
+      "name": "Innowise",
+      "website": "",
+      "pricing": "",
+      "key_features": [
+        "DevSecOps-integrated AI security"
+      ],
+      "target_market": "",
+      "strengths": [
+        "great for DevSecOps-integrated AI security"
+      ],
+      "weaknesses": [],
+      "positioning": ""
+    },
+    {
+      "name": "Cyera",
+      "website": "",
+      "pricing": "",
+      "key_features": [
+        "data security posture management"
+      ],
+      "target_market": "",
+      "strengths": [
+        "great for data security posture management"
+      ],
+      "weaknesses": [],
+      "positioning": ""
+    },
+    {
+      "name": "Abnormal Security",
+      "website": "",
+      "pricing": "",
+      "key_features": [
+        "preventing social engineering attacks"
+      ],
+      "target_market": "",
+      "strengths": [
+        "great for preventing social engineering attacks"
+      ],
+      "weaknesses": [],
+      "positioning": ""
+    },
+    {
+      "name": "Rapid7",
+      "website": "",
+      "pricing": "",
+      "key_features": [
+        "attack surface visibility"
+      ],
+      "target_market": "",
+      "strengths": [
+        "great for attack surface visibility"
+      ],
+      "weaknesses": [],
+      "positioning": ""
+    }
+  ],
+  "insights": {
+    "competitors": [
+      {
+        "name": "Mindgard",
+        "website": "https://mindgard.ai/blog/best-ai-security-companies",
+        "pricing": "",
+        "key_features": [
+          "autonomous red teaming",
+          "continuous security testing for artificial intelligence systems"
+        ],
+        "target_market": "AI safety companies, helping companies identify unsafe model behavior",
+        "strengths": [
+          "depth of AI-specific capability",
+          "ease of integration",
+          "real-world proven results"
+        ],
+        "weaknesses": [],
+        "positioning": "pioneering AI security company"
+      },
+      {
+        "name": "Vectra AI",
+        "website": "",
+        "pricing": "",
+        "key_features": [
+          "visibility into attackers' movements"
+        ],
+        "target_market": "",
+        "strengths": [
+          "great for visibility into attackers' movements"
+        ],
+        "weaknesses": [],
+        "positioning": ""
+      },
+      {
+        "name": "Radiant",
+        "website": "",
+        "pricing": "",
+        "key_features": [
+          "AI-powered SOC automation"
+        ],
+        "target_market": "",
+        "strengths": [
+          "great for AI-powered SOC automation"
+        ],
+        "weaknesses": [],
+        "positioning": ""
+      },
+      {
+        "name": "Innowise",
+        "website": "",
+        "pricing": "",
+        "key_features": [
+          "DevSecOps-integrated AI security"
+        ],
+        "target_market": "",
+        "strengths": [
+          "great for DevSecOps-integrated AI security"
+        ],
+        "weaknesses": [],
+        "positioning": ""
+      },
+      {
+        "name": "Cyera",
+        "website": "",
+        "pricing": "",
+        "key_features": [
+          "data security posture management"
+        ],
+        "target_market": "",
+        "strengths": [
+          "great for data security posture management"
+        ],
+        "weaknesses": [],
+        "positioning": ""
+      },
+      {
+        "name": "Abnormal Security",
+        "website": "",
+        "pricing": "",
+        "key_features": [
+          "preventing social engineering attacks"
+        ],
+        "target_market": "",
+        "strengths": [
+          "great for preventing social engineering attacks"
+        ],
+        "weaknesses": [],
+        "positioning": ""
+      },
+      {
+        "name": "Rapid7",
+        "website": "",
+        "pricing": "",
+        "key_features": [
+          "attack surface visibility"
+        ],
+        "target_market": "",
+        "strengths": [
+          "great for attack surface visibility"
+        ],
+        "weaknesses": [],
+        "positioning": ""
+      }
+    ],
+    "market_trends": [
+      "AI cybersecurity companies are the go-to for advanced detection and automated incident response",
+      "74% of IT security professionals have seen critical impacts from AI-fueled cyberattacks"
+    ],
+    "strategic_gaps": [
+      "traditional security software fails to address vulnerabilities of artificial intelligence systems",
+      "human-centered security operations struggle to keep up with next-generation, automated threats"
+    ],
+    "executive_summary": ""
+  },
+  "scraped_urls": [
+    "https://mindgard.ai/blog/best-ai-security-companies",
+    "https://www.sentinelone.com/cybersecurity-101/data-and-ai/ai-cybersecurity-companies/",
+    "https://www.checkpoint.com/cyber-hub/tools-vendors/best-ai-security-companies-in-2026/",
+    "https://www.legitsecurity.com/aspm-knowledge-base/ai-security-vendors",
+    "https://www.linkedin.com/pulse/top-artificial-intelligenceai-security-companies-how-compare-jaakf"
+  ],
+  "timestamp": "2026-06-03T12:04:17.762070",
+  "_saved_at": "2026-06-03T12:04:17.762137"
+}

@@ -1,0 +1,153 @@
+{
+  "query": "Analyze Impact Analytics competitors and create a market report.",
+  "company": "Impact Analytics",
+  "competitors": [
+    {
+      "name": "Infoveave",
+      "website": "https://infoveave.com/",
+      "pricing": "",
+      "key_features": [
+        "50+ chart types",
+        "AI-generated dashboards",
+        "100+ visualization options"
+      ],
+      "target_market": "Businesses, organizations",
+      "strengths": [
+        "Empowers organizations to transform raw data into powerful narratives",
+        "Provides tools for data comprehension, workflow streamlining, and collaboration"
+      ],
+      "weaknesses": [],
+      "positioning": ""
+    },
+    {
+      "name": "Interactive Data Visualization Platform",
+      "website": "",
+      "pricing": "",
+      "key_features": [
+        "50+ chart types",
+        "AI-generated dashboards",
+        "100+ visualization options"
+      ],
+      "target_market": "Businesses, organizations",
+      "strengths": [
+        "Provides tools for data comprehension, workflow streamlining, and collaboration"
+      ],
+      "weaknesses": [],
+      "positioning": ""
+    },
+    {
+      "name": "Tableau",
+      "website": "",
+      "pricing": "",
+      "key_features": [
+        "Data visualization",
+        "Interactive dashboards"
+      ],
+      "target_market": "Businesses, organizations",
+      "strengths": [
+        "Empowers users to create interactive dashboards"
+      ],
+      "weaknesses": [],
+      "positioning": ""
+    },
+    {
+      "name": "Power BI",
+      "website": "",
+      "pricing": "",
+      "key_features": [
+        "Data visualization",
+        "Interactive dashboards"
+      ],
+      "target_market": "Businesses, organizations",
+      "strengths": [
+        "Empowers users to create interactive dashboards"
+      ],
+      "weaknesses": [],
+      "positioning": ""
+    }
+  ],
+  "insights": {
+    "competitors": [
+      {
+        "name": "Infoveave",
+        "website": "https://infoveave.com/",
+        "pricing": "",
+        "key_features": [
+          "50+ chart types",
+          "AI-generated dashboards",
+          "100+ visualization options"
+        ],
+        "target_market": "Businesses, organizations",
+        "strengths": [
+          "Empowers organizations to transform raw data into powerful narratives",
+          "Provides tools for data comprehension, workflow streamlining, and collaboration"
+        ],
+        "weaknesses": [],
+        "positioning": ""
+      },
+      {
+        "name": "Interactive Data Visualization Platform",
+        "website": "",
+        "pricing": "",
+        "key_features": [
+          "50+ chart types",
+          "AI-generated dashboards",
+          "100+ visualization options"
+        ],
+        "target_market": "Businesses, organizations",
+        "strengths": [
+          "Provides tools for data comprehension, workflow streamlining, and collaboration"
+        ],
+        "weaknesses": [],
+        "positioning": ""
+      },
+      {
+        "name": "Tableau",
+        "website": "",
+        "pricing": "",
+        "key_features": [
+          "Data visualization",
+          "Interactive dashboards"
+        ],
+        "target_market": "Businesses, organizations",
+        "strengths": [
+          "Empowers users to create interactive dashboards"
+        ],
+        "weaknesses": [],
+        "positioning": ""
+      },
+      {
+        "name": "Power BI",
+        "website": "",
+        "pricing": "",
+        "key_features": [
+          "Data visualization",
+          "Interactive dashboards"
+        ],
+        "target_market": "Businesses, organizations",
+        "strengths": [
+          "Empowers users to create interactive dashboards"
+        ],
+        "weaknesses": [],
+        "positioning": ""
+      }
+    ],
+    "market_trends": [
+      "data analytics consulting services empower organizations to make informed decisions",
+      "organizations can experience transformative changes by integrating data-driven strategies"
+    ],
+    "strategic_gaps": [
+      "need for expert guidance in data strategy",
+      "challenges in analyzing unstructured data"
+    ],
+    "executive_summary": "Data Analytics Consulting: Insights for Informed Decisions"
+  },
+  "scraped_urls": [
+    "https://infoveave.com/insights-data-visualization",
+    "https://thecareerforce.com/category/analytics/page/5/",
+    "https://www.consultfrontier.com/data-analytics-consulting/",
+    "https://caliberfocus.com/healthcare-data-visualization-companies-for-ehr-integration"
+  ],
+  "timestamp": "2026-06-02T06:01:00.743792",
+  "_saved_at": "2026-06-02T06:01:00.743827"
+}

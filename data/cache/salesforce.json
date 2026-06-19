@@ -1,0 +1,109 @@
+{
+  "query": "Analyze Salesforce competitors and create a market report",
+  "company": "Salesforce",
+  "competitors": [
+    {
+      "name": "Google Cloud",
+      "website": "https://cloud.google.com/",
+      "pricing": "...",
+      "key_features": [
+        "AI-powered cloud services",
+        "Cloud Storage for unstructured data"
+      ],
+      "target_market": "Enterprises and startups",
+      "strengths": [
+        "Scalability",
+        "Security",
+        "Cost-effectiveness"
+      ],
+      "weaknesses": [
+        "Complexity",
+        "Dependence on AI technology"
+      ],
+      "positioning": "AI-powered cloud services for enterprises and startups"
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "website": "https://aws.amazon.com/",
+      "pricing": "...",
+      "key_features": [
+        "Cloud computing services",
+        "Artificial intelligence (AI) and machine learning (ML) capabilities"
+      ],
+      "target_market": "Enterprises, startups, and small businesses",
+      "strengths": [
+        "Scalability",
+        "Security",
+        "Cost-effectiveness"
+      ],
+      "weaknesses": [
+        "Complexity",
+        "Dependence on AI technology"
+      ],
+      "positioning": "Cloud computing services for enterprises, startups, and small businesses"
+    }
+  ],
+  "insights": {
+    "competitors": [
+      {
+        "name": "Google Cloud",
+        "website": "https://cloud.google.com/",
+        "pricing": "...",
+        "key_features": [
+          "AI-powered cloud services",
+          "Cloud Storage for unstructured data"
+        ],
+        "target_market": "Enterprises and startups",
+        "strengths": [
+          "Scalability",
+          "Security",
+          "Cost-effectiveness"
+        ],
+        "weaknesses": [
+          "Complexity",
+          "Dependence on AI technology"
+        ],
+        "positioning": "AI-powered cloud services for enterprises and startups"
+      },
+      {
+        "name": "Amazon Web Services (AWS)",
+        "website": "https://aws.amazon.com/",
+        "pricing": "...",
+        "key_features": [
+          "Cloud computing services",
+          "Artificial intelligence (AI) and machine learning (ML) capabilities"
+        ],
+        "target_market": "Enterprises, startups, and small businesses",
+        "strengths": [
+          "Scalability",
+          "Security",
+          "Cost-effectiveness"
+        ],
+        "weaknesses": [
+          "Complexity",
+          "Dependence on AI technology"
+        ],
+        "positioning": "Cloud computing services for enterprises, startups, and small businesses"
+      }
+    ],
+    "market_trends": [
+      "Increasing adoption of cloud computing",
+      "Growing demand for AI-powered cloud services",
+      "Rise of edge computing and IoT devices"
+    ],
+    "strategic_gaps": [
+      "Lack of standardization in cloud computing",
+      "Insufficient security measures for sensitive data",
+      "Limited availability of AI-powered cloud services for small businesses"
+    ],
+    "executive_summary": "Cloud computing is a rapidly growing market with increasing adoption of AI-powered cloud services. The competition between Google Cloud and Amazon Web Services (AWS) is intense, with both companies offering scalable and cost-effective solutions. However, there are still strategic gaps in the market that need to be addressed."
+  },
+  "scraped_urls": [
+    "https://en.wikipedia.org/wiki/Cloud_computing",
+    "https://cloud.google.com/",
+    "https://cloud.google.com/storage",
+    "https://aws.amazon.com/"
+  ],
+  "timestamp": "2026-06-19T06:27:51.125893",
+  "_saved_at": "2026-06-19T06:27:51.126021"
+}

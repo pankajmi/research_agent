@@ -1,0 +1,82 @@
+openapi: "3.0.0"
+info:
+  title: Research Agent Tools API
+  version: "1.0.0"
+  description: |
+    External tool definitions for the AI Research Agent.
+    These specs allow any OpenAPI-compatible client (LangChain tool calling,
+    OpenAI function calling, FastAPI auto-docs) to discover and invoke
+    the agent's tools without reading the source code.
+
+paths:
+  /search:
+    post:
+      operationId: web_search
+      summary: Search the web for competitor and market information
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [query]
+              properties:
+                query:
+                  type: string
+                  description: Natural language search query
+                  example: "Impact Analytics competitors 2024"
+                max_results:
+                  type: integer
+                  default: 8
+                  minimum: 1
+                  maximum: 20
+      responses:
+        "200":
+          description: List of search results
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    title:
+                      type: string
+                    url:
+                      type: string
+                      format: uri
+                    snippet:
+                      type: string
+
+  /scrape:
+    post:
+      operationId: scrape_page
+      summary: Extract text content from a web page URL
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [url]
+              properties:
+                url:
+                  type: string
+                  format: uri
+                max_chars:
+                  type: integer
+                  default: 3000
+      responses:
+        "200":
+          description: Extracted page content
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  url:
+                    type: string
+                  title:
+                    type: string
+                  content:
+                    type: string
