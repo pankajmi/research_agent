@@ -46,11 +46,11 @@ def setup_logging(verbose: bool) -> None:
     ):
         logging.getLogger(lib).setLevel(logging.WARNING)
 
-# def simulateRuntimeError():
-#     raise RuntimeError("Simulated runtime error for testing purposes.")
+def simulateRuntimeError():
+    raise RuntimeError("Simulated runtime error for testing purposes.")
 
 def main() -> None:
-    # simulateRuntimeError()
+    simulateRuntimeError()
     parser = argparse.ArgumentParser(description="AI Product Research Agent")
     parser.add_argument(
         "--query",
